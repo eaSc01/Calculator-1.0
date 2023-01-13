@@ -518,7 +518,7 @@ double div_of_numbers(int total_count)
 { // function for repeated divison
 
     double div = 1, input, initial_input;
-    printf("ENTER AN INITIAL NUMBER FROM WHICH YOU WANT TO SUBTRACT: ");
+    printf("ENTER AN INITIAL NUMBER FROM WHICH YOU WANT TO DIVIDE: ");
     scanf("%lf", &initial_input);
     printf("ENTER NUMBER 1 TO DIVIDE: ");
     scanf("%lf", &input);
